@@ -1,6 +1,10 @@
 # vue-news
 
-> Demo using Vue.js and NewsAPI
+> Demo using Vue.js + Webpack and [NewsAPI](https://newsapi.org)
+
+## Get your API KEY
+
+You need to obtain an *Api Key* from [https://newsapi.org](https://newsapi.org) and put it in `App.vue`.
 
 ## Build Setup
 
@@ -17,5 +21,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
